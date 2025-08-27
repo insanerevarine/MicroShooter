@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1565afb0254c90b4ebef13230d06b32c, type: 3}
+  m_Name: Weapon Single
+  m_EditorClassIdentifier: 
+  damage: 20
+  burstLength: 1
+  timeBetweenBursts: 0.2
+  rayCount: 1
+  rayAngle: 0
+  timeBetweenBullets: 0
+  equippedPrefab: {fileID: 7472823775007071625, guid: 3da788421db16f54083a2487c2797317, type: 3}
+  projectile: {fileID: 5338899456936791340, guid: f096b3177fdb02143bbcc858f62684ea, type: 3}
